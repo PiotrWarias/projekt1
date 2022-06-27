@@ -17,7 +17,7 @@ class Main {
       case 1:
     double wynik;
         System.out.println("Suma");
-        System.out.println("Podaj 2 liczby aby obliczyc sumę");
+        System.out.println("Podaj 2 liczby aby obliczyć sumę");
         Scanner first =new Scanner(System.in);
         l1=first.nextDouble();
         Scanner second =new Scanner(System.in);
@@ -29,7 +29,7 @@ class Main {
       case 2:
         double wynik2;
         System.out.println("Różnica");
-        System.out.println("Podaj 2 liczby aby obliczyc roznice");
+        System.out.println("Podaj 2 liczby aby obliczyć różnice");
         Scanner first1 =new Scanner(System.in);
         l1=first1.nextDouble();
         Scanner second2 =new Scanner(System.in);
@@ -40,7 +40,7 @@ class Main {
       case 3:
       double wynik3;
         System.out.println("Iloczyn");
-        System.out.println("Podaj 2 liczby aby obliczyc iloczyn");
+        System.out.println("Podaj 2 liczby aby obliczyć iloczyn");
         Scanner first2 =new Scanner(System.in);
         l1=first2.nextDouble();
         Scanner second3 =new Scanner(System.in);
@@ -52,7 +52,7 @@ class Main {
       double wynik4;
 
         System.out.println("Iloraz");
-        System.out.println("Podaj 2 liczby aby obliczyc iloraz");
+        System.out.println("Podaj 2 liczby aby obliczyć iloraz");
         Scanner first3 =new Scanner(System.in);
         l1=first3.nextDouble();
         Scanner second4 =new Scanner(System.in);
